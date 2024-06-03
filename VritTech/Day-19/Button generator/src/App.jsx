@@ -1,7 +1,8 @@
-import { ReactSVG } from "react-svg";
+
 import './App.css'
 import ButtonFactory from './component/button';
 import Home from "./assets/icons/home.svg";
+import Setting from "./assets/icons/setting.svg";
 function App() {
 
   return (
@@ -19,7 +20,7 @@ function App() {
      <ButtonFactory type ="dummy3"/><br/>
 
     <img src={Home} alt="React Logo"/>
-
+    <img src={Setting} alt ="React Logo"/>
     </>
   );
 }

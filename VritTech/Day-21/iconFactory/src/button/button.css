@@ -1,0 +1,75 @@
+.submit{
+    background-color: blue;
+    color: aliceblue;
+    margin-block: 8px;
+    border-radius: 5px;
+ 
+}
+.download{
+    background-color: red;
+    color: aliceblue;
+    margin-block: 8px;
+    border-radius: 5px;
+}
+.export{
+    background-color: yellow;
+    color: aliceblue;
+    margin-block: 8px;
+    border-radius: 5px;
+}
+.cancel{
+    background-color: green;
+    color: aliceblue;
+    margin-block: 8px;
+    border-radius: 5px;
+}
+.install{
+    background-color: black;
+    color: aliceblue;
+    margin-block: 8px;
+    border-radius: 5px;
+}
+.search{
+    background-color: brown;
+    color: aliceblue;
+    margin-block: 8px;
+    border-radius: 5px;
+}
+.upload{
+    background-color: skyblue;
+    color: aliceblue;
+    margin-block: 8px;
+    border-radius: 5px;
+}
+
+.dummy1{
+    background-color: palegoldenrod;
+    color: aliceblue;
+    margin-block: 8px;
+    border-radius: 5px;
+}
+.dummy2{
+    background-color: yellowgreen;
+    color: aliceblue;
+    margin-block: 8px;
+    border-radius: 5px;
+}
+.dummy3{
+    background-color: grey;
+    color: aliceblue;
+    margin-block: 8px;
+    border-radius: 5px;
+}
+
+.home{
+    background-color: skyblue;
+    color: aliceblue;
+    margin-block: 8px;
+    border-radius: 5px;
+}
+
+  /*#button:hover 
+{
+    background-color: aqua;
+}
+*/
