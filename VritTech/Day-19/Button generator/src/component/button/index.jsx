@@ -10,7 +10,7 @@ function ButtonFactory({type})
         case "cancel": return<button className="cancel">cancel</button>;
         case "install": return<button className="install">install</button>;
         case "search": return<button className="search">search</button>;
-        case "contact": return<button className="contact">contact</button>;
+        case "upload": return<button className="upload">upload</button>;
         case "dummy1": return<button className="dummy1">dummy1</button>;
         case "dummy2": return<button className="dummy2">dummy2</button>;
         case  "dummy3": return<button className="dummy3">dummy3</button>;
